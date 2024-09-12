@@ -9,3 +9,5 @@ git remote -v
 git remote set-url origin https://use secratekey @github.com/gauravs30/github-for-devops-workshop.git
 git push origin master
 git history
+
+All this basic commands are used usually. 
