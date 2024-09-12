@@ -4,3 +4,8 @@ git add testing.py
 git add .
 git commit -m "added testing files"
 git restore testing.py
+git remote add origin https://github.com/gauravs30/github-for-devops-workshop.git
+git remote -v
+git remote set-url origin https://use secratekey @github.com/gauravs30/github-for-devops-workshop.git
+git push origin master
+git history
